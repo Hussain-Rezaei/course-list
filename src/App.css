@@ -46,7 +46,7 @@ h1 {
 .course-item__body {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
   gap: 0.6rem;
   flex: 1;
   margin-bottom: 1.5rem;
